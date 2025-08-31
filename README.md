@@ -34,5 +34,5 @@ The analysis provides clarity on:
 
 ## Contact
 - Author: Kartik Gupta  
-- LinkedIn: https://www.linkedin.com/in/kartikgupta199/ 
-- Email: kartik.gupta09@gmail.com 
+- **LinkedIn**: https://www.linkedin.com/in/kartikgupta199/ 
+- **Email**: kartik.gupta709@gmail.com 
