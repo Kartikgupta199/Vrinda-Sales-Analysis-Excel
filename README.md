@@ -38,7 +38,12 @@ The analysis provides clarity on:
 - **Western Region** contributed the most to total revenue, while the **Southern Region** showed growth potential.  
 - **Women’s Clothing** was the top-selling category, accounting for the largest share of sales.  
 - The **top 10 products** contributed nearly **45% of total revenue**, showing product concentration.  
-- Returning customers had a **15% higher average order value** compared to new customers.  
+- Returning customers had a **15% higher average order value** compared to new customers.
+
+## DAshboard Screenshot:
+
+- ![Vrinda sales](https://github.com/user-attachments/assets/1d9336d0-3ead-4e38-bc5f-0ddebf2d7a42)
+
 
 ## How to Use
 1. Download the file: `Vrinda Store Data Analysis.xlsx`  
